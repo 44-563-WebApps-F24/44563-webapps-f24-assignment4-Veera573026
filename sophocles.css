@@ -23,3 +23,16 @@
  .creon{
     color:steelblue; 
  }
+ table{
+   width: 50%;
+   border-collapse: collapse;
+ }
+ th,td {
+   border: 2px solid black;
+   padding: 6px;
+   text-align: left;
+   
+ }
+ th{
+   background-color: skyblue;
+ }
