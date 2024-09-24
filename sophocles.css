@@ -1,0 +1,25 @@
+.speech {
+    font-family: 'Times New Roman', Times, serif, san-serif; 
+    font-size: 16px;
+    color: black;
+
+ }
+
+ .direction {
+    font-family: Times New Roman, serif;
+    font-size: 14px;
+    color: Black;
+    background-color: skyblue;
+ }
+
+ .direction:hover{
+    background-color: coral;
+    color: white;
+ }
+
+ .oedipus{
+    color:firebrick; 
+ }
+ .creon{
+    color:steelblue; 
+ }
